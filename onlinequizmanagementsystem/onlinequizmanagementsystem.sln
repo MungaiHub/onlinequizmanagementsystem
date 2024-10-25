@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onlinequizmanagementsystem", "onlinequizmanagementsystem.csproj", "{21C25CA6-B407-4F52-A300-EAE047F2936B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C25CA6-B407-4F52-A300-EAE047F2936B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C25CA6-B407-4F52-A300-EAE047F2936B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C25CA6-B407-4F52-A300-EAE047F2936B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C25CA6-B407-4F52-A300-EAE047F2936B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {560843AF-61B9-403A-B645-52427ACDA7B0}
+	EndGlobalSection
+EndGlobal
